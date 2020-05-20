@@ -1,0 +1,24 @@
+{
+    "students" :[
+        {
+            "name":"Austin",
+            "id": 1,
+            "salary": 10000000,
+            "job":"Back End Develper"
+        },
+        {
+
+            "name":"cody",
+            "id": 2,
+            "salary": 15000000,
+            "job": "CEO"
+        },
+        {
+            "name":"wilson",
+            "id": 3,
+            "salary": 200000000,
+            "job":"Real Estate Investor"
+
+        }
+    ]
+}
